@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Caleb
+- 👀 I’m interested in creating ai
+- 🌱 I’m currently learning python js 
+- 📫 How to reach me ...//07083112827
