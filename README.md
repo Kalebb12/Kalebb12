@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Caleb
 - 👀 I’m interested in creating ai
-- 🌱 I’m currently learning c++ and C#
+- 🌱 I’m currently learning C++ and C#
 - 📫 How to reach me ...//07083112827
