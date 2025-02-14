@@ -25,5 +25,3 @@ Welcome to my GitHub! I'm a passionate developer specializing in the **MERN (Mon
 🚀 **Always open to collaborations and exciting projects. Let’s build something great together!**  
 
 ---
-
-Would you like me to add any personal touch or additional details? 😊
