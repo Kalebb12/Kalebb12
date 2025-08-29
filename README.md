@@ -16,7 +16,8 @@ Welcome to my GitHub! I'm a passionate developer specializing in the **MERN (Mon
 
 ### 🌱 Learning & Exploring  
 - 📖 **Machine Learning & AI** (Hands-on Python & R in Data Science)  
-- 🏗 **Next.js 15** (Building scalable full-stack applications)  
+- 🏗 **Next.js 15** (Building scalable full-stack applications)
+- [![roadmap.sh](https://roadmap.sh/card/tall/684d794c804da5ff7b2a4d2c?variant=dark)](https://roadmap.sh)
 
 ### 📫 Connect with Me  
 - 🔗 [Twitter](https://x.com/ceejay717421235) – Sharing dev insights & AI trends  
