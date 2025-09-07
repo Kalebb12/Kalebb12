@@ -20,7 +20,7 @@ Welcome to my GitHub! I'm a passionate developer specializing in the **MERN (Mon
 - [![roadmap.sh](https://roadmap.sh/card/tall/684d794c804da5ff7b2a4d2c?variant=dark)](https://roadmap.sh)
 
 ### 📫 Connect with Me  
-- 🔗 [Twitter](https://x.com/ceejay717421235) – Sharing dev insights & AI trends  
+- 🔗 [Twitter](https://x.com/cee__jhay_) – Sharing dev insights & AI trends  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/caleb-john-059a1a2bb/) – Let’s network!  
 
 🚀 **Always open to collaborations and exciting projects. Let’s build something great together!**  
