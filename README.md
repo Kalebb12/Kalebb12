@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Caleb</h1>
-<h3 align="center">A passionate Fullstack developer from Nigeria</h3>
+<h1>Hi, I'm Caleb</h1>
+<h3>A passionate Fullstack developer from Nigeria</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kalebb12" alt="kalebb12" /></a> </p>
 
