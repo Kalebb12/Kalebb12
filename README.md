@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Caleb, and I'm a software developer from Nigeria.</h2>
+<h2 align="left">Hi 👋!I'm Caleb, and I'm a software developer from Nigeria.</h2>
 
 ###
 
